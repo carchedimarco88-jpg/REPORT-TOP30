@@ -16,3 +16,5 @@ Il flusso include:
 Pensato per semplificare la reportistica periodica e ridurre gli errori manuali.
 
 ---
+
+![ANTEPRIMA_REPORT](https://github.com/carchedimarco88-jpg/REPORT-TOP30/raw/main/MIGLIORI%2030%20PRODOTTI%20.png)
