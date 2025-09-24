@@ -7,7 +7,7 @@
 data_riferimento <- "23 settembre 2025"
 
 # Percorso file template Excel
-template_file <- "C:/Users/Marco/Desktop/TEMPLATE.xlsx"
+template_file <- "PERCORSO_FILE_TEMPLATE.xlsx"
 
 # Nomi file di output con data
 output_file <- sprintf("TOP30 ARTICOLI %s.xlsx", data_riferimento)
